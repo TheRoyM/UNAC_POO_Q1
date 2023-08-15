@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="202705fe-67ac-4633-b97d-9201ef5b8bf2" name="Changes" comment="" />
+    <list default="true" id="202705fe-67ac-4633-b97d-9201ef5b8bf2" name="Changes" comment="Quiz 1 poo2 by Roysman-Duvan :V">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InicioConsola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InicioGU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/escribirArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leerArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listado.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2U1bCwOOKX3xeaAGBdlRuzZPLFk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,9 +43,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/RoyMR/Documents/POO2-2023/UNAC_POO2_Q1"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.escribirArchivo">
+    <configuration name="escribirArchivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="escribirArchivo" />
+      <module name="UNAC_POO2_Q1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leerArchivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leerArchivo" />
+      <module name="UNAC_POO2_Q1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.escribirArchivo" />
+        <item itemvalue="Application.leerArchivo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,6 +80,30 @@
       <option name="presentableId" value="Default" />
       <updated>1692109911720</updated>
     </task>
+    <task id="LOCAL-00001" summary="Quiz 1 poo2 by Roysman-Duvan :V">
+      <option name="closed" value="true" />
+      <created>1692109977414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692109977414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Quiz 1 poo2 by Roysman-Duvan :V" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quiz 1 poo2 by Roysman-Duvan :V" />
   </component>
 </project>
