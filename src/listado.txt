@@ -1,1 +1,3 @@
-
+Perro, bermejo, 5, 34.9;
+gato, amarillo, 8, 38.9;
+guacamaya, rojo, 7, 38.9;
