@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="202705fe-67ac-4633-b97d-9201ef5b8bf2" name="Changes" comment="Creamos las clases">
-      <change afterPath="$PROJECT_DIR$/src/Animales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InicioConsola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InicioConsola.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InicioGU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InicioGU.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/escribirArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/escribirArchivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/listado.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/listado.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leerArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leerArchivo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +24,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TheRoyM"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b34ba812-2ed1-4081-8363-d19c24b457fc" />
+        <option name="url" value="https://github.com/TheRoyM/UNAC_POO_Q1.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -41,16 +49,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/RoyMR/Documents/POO2-2023/UNAC_POO2_Q1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/RoyMR/Documents/POO2-2023/UNAC_POO2_Q1&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.InicioGU">
+}</component>
+  <component name="RunManager" selected="Application.frmInicio">
     <configuration name="InicioGU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InicioGU" />
       <module name="UNAC_POO2_Q1" />
@@ -72,6 +80,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="frmInicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frmInicio" />
+      <module name="UNAC_POO2_Q1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="leerArchivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leerArchivo" />
       <module name="UNAC_POO2_Q1" />
@@ -81,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.frmInicio" />
         <item itemvalue="Application.InicioGU" />
         <item itemvalue="Application.escribirArchivo" />
         <item itemvalue="Application.Main" />
