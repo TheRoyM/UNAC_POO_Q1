@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="202705fe-67ac-4633-b97d-9201ef5b8bf2" name="Changes" comment="Creamos las clases">
+    <list default="true" id="202705fe-67ac-4633-b97d-9201ef5b8bf2" name="Changes" comment="interfazes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leerArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leerArchivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frmInicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frmInicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listado.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/listado.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leerArchivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leerArchivo" />
+    <configuration name="frmInicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frmInicio2" />
       <module name="UNAC_POO2_Q1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,10 +97,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.frmInicio" />
+        <item itemvalue="Application.frmInicio2" />
         <item itemvalue="Application.InicioGU" />
         <item itemvalue="Application.escribirArchivo" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.leerArchivo" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692112574050</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="interfazes">
+      <option name="closed" value="true" />
+      <created>1692905500702</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692905500702</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +154,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Quiz 1 poo2 by Roysman-Duvan :V" />
     <MESSAGE value="Creamos las clases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creamos las clases" />
+    <MESSAGE value="interfazes" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfazes" />
   </component>
 </project>
