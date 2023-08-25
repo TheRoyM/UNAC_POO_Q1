@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="202705fe-67ac-4633-b97d-9201ef5b8bf2" name="Changes" comment="interfazes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/frmInicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frmInicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/listado.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/listado.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frmInicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frmInicio2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/RoyMR/Documents/POO2-2023/UNAC_POO2_Q1&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.frmInicio">
+  <component name="RunManager" selected="Application.frmInicio2">
     <configuration name="InicioGU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InicioGU" />
       <module name="UNAC_POO2_Q1" />
@@ -96,8 +95,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.frmInicio" />
         <item itemvalue="Application.frmInicio2" />
+        <item itemvalue="Application.frmInicio" />
         <item itemvalue="Application.InicioGU" />
         <item itemvalue="Application.escribirArchivo" />
         <item itemvalue="Application.Main" />
@@ -137,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692905500702</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="interfazes">
+      <option name="closed" value="true" />
+      <created>1692906393704</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692906393704</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
