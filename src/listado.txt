@@ -1,1 +1,1 @@
-Perro,azul,90,89;-Oso,cafe,56,89
+Perro,bermejo,90,89;-loro,verde,90,89;-loro,amarillo,89,09
